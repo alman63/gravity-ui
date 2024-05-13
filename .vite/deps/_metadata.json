@@ -1,0 +1,56 @@
+{
+  "hash": "261a0da5",
+  "browserHash": "59406529",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "f09e6838",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8789675b",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4feb85db",
+      "needsInterop": true
+    },
+    "@gravity-ui/uikit": {
+      "src": "../../node_modules/@gravity-ui/uikit/build/esm/index.js",
+      "file": "@gravity-ui_uikit.js",
+      "fileHash": "8d94c62d",
+      "needsInterop": false
+    },
+    "bem-cn-lite": {
+      "src": "../../node_modules/bem-cn-lite/lib/index.js",
+      "file": "bem-cn-lite.js",
+      "fileHash": "bbb41865",
+      "needsInterop": true
+    },
+    "@gravity-ui/icons": {
+      "src": "../../node_modules/@gravity-ui/icons/esm/index.js",
+      "file": "@gravity-ui_icons.js",
+      "fileHash": "734ea6e3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-4ASWBRZ3": {
+      "file": "chunk-4ASWBRZ3.js"
+    },
+    "chunk-GMW6QKEH": {
+      "file": "chunk-GMW6QKEH.js"
+    },
+    "chunk-O6O4HUXW": {
+      "file": "chunk-O6O4HUXW.js"
+    },
+    "chunk-LQ2VYIYD": {
+      "file": "chunk-LQ2VYIYD.js"
+    }
+  }
+}
