@@ -11,7 +11,7 @@ const b = block('card');
 const DATAUSER = {
     name: 'Иван Иванкин',
     description: 'супер чувак, один из лучших',
-    imgUrl: '../public/img/1.jpg',
+    imgUrl: 'img/1.jpg',
     textField:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt convallis porta. Suspendisse ut leo accumsan velit rutrum vehicula. Curabitur placerat tempus mattis. Mauris dictum eros consectetur laoreet gravida. Integer ac convallis erat. Praesent risus est, scelerisque sit amet finibus ut, scelerisque vitae metus. Donec sagittis velit at bibendum sollicitudin.',
 };
